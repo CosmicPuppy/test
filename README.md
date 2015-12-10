@@ -12,3 +12,6 @@ test text below...
     1. 4-button Aeon Labs Minimote, button-push only, no support for button-held.
     2. 7-button ZWN-SC7 Enerwave 7 Button Scene Controller, per @mattjfrank:
         <http://community.smartthings.com/t/Devices/2969>
+
+### Adding a new section to test automatic Page Monitoring
+
