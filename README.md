@@ -14,4 +14,4 @@ test text below...
         <http://community.smartthings.com/t/Devices/2969>
 
 ### Adding a new section to test automatic Page Monitoring
-
+- And let's test again with another remote monitoring service enabled as well as Chrome Extension.
